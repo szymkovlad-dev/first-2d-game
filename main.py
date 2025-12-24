@@ -54,6 +54,46 @@ class Game():
         """reset The game"""
         pass
 
+class Player(pygame.sprite.Sprite):
+    """a class the user can control"""
+
+    def __init__(self):
+        """initialize the player"""
+        pass
+
+    def __update__(self):
+        """update the player"""
+        pass
+
+    def __move__(self):
+        """move the player"""
+        pass
+
+    def __check_collisions__(self):
+        """check for collisions with platforms """
+        pass
+
+    def __check_animations__(self):
+        """check to see if jump/fire animations"""
+        pass
+
+    def __jump__(self):
+        """jump"""
+        pass
+
+    def __fire__(self):
+        """fire a bullet from sword"""
+        pass
+
+    def __reset__(self):
+        """reset player position"""
+        pass
+
+    def __animate__(self):
+        """animate the player actions"""
+        pass
+
+
 #Create sprite groups
 my_player_group = pygame.sprite.Group()
 

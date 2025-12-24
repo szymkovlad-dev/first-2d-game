@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="baaa81b7-9f9a-4185-9025-f37aa442b6f3" name="Changes" comment="add class Game.">
+    <list default="true" id="baaa81b7-9f9a-4185-9025-f37aa442b6f3" name="Changes" comment="add class Player.">
+      <change afterPath="$PROJECT_DIR$/resources/Images/1_game_background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Images/skeleton_idle.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -105,13 +107,22 @@
       <option name="project" value="LOCAL" />
       <updated>1766587854971</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add class Player.">
+      <option name="closed" value="true" />
+      <created>1766589438862</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1766589438862</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit of game" />
     <MESSAGE value="add background." />
     <MESSAGE value="add class Game." />
-    <option name="LAST_COMMIT_MESSAGE" value="add class Game." />
+    <MESSAGE value="add class Player." />
+    <option name="LAST_COMMIT_MESSAGE" value="add class Player." />
   </component>
 </project>
